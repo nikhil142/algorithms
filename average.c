@@ -38,5 +38,6 @@ float avg()                                          // function definition
 	avg=(a+b+c)/3.0;
 	return avg;
 }*/
+nikhil
 
 
