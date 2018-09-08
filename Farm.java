@@ -1,7 +1,10 @@
+/***
+problem : Farmer Feb
+
+ **/  
+
+
 import java.util.Scanner;
-
-// problem : Farmer Feb
-
 public class Farm
 {
     public static void main(String arg[]) {
